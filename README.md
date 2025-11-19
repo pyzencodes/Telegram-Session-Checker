@@ -1,8 +1,9 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ````markdown
 # Session Checker
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 Private utility script for testing Telegram `.session` files and automatically sorting them into **working** and **non-working** groups.
 
