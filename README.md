@@ -81,3 +81,9 @@ sessions_bad   → unauthorized / failed sessions
 * For internal usage only
 
 ---
+
+## License
+
+This repository is for personal / internal use only.  
+All rights reserved. You may not copy, distribute, sublicense, or use this code for commercial purposes without explicit permission from the author.
+
