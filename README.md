@@ -1,6 +1,3 @@
-Tamam, **tek parça ve sade** bir Markdown README hazırladım (Configuration vb. başlıklar tek bölümde). Aşağıdakini direkt `README.md` olarak ekleyebilirsin:
-
----
 
 ````markdown
 # Session Checker
