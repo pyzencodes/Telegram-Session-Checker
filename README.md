@@ -1,15 +1,7 @@
-<!-- GitHub yıldız -->
-[![GitHub stars](https://img.shields.io/github/stars/pyzencodes/pyzen-codes?style=flat-square)](https://github.com/pyzencodes/pyzen-codes/telegram-session-chechker)
-
-<!-- Python sürümü -->
-![Python version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue?style=flat-square&logo=python)
-
-<!-- Lisans -->
-![License](https://img.shields.io/github/license/pyzencodes/pyzen-codes?style=flat-square)
-
-<!-- Build status (GitHub Actions workflow ismine göre) -->
-[![CI](https://github.com/pyzencodes/pyzen-codes/actions/workflows/ci.yml/badge.svg)](https://github.com/pyzencodes/pyzen-codes/actions/workflows/ci.yml)
-
+[![GitHub stars](https://img.shields.io/github/stars/pyzencodes/Telegram-Session-Checker?style=flat-square)](https://github.com/pyzencodes/Telegram-Session-Checker/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/pyzencodes/Telegram-Session-Checker?style=flat-square)](https://github.com/pyzencodes/Telegram-Session-Checker/issues)
+![Python version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python)
+![License](https://img.shields.io/badge/license-Private%20Use-red?style=flat-square)
 
 ````markdown
 # Session Checker
