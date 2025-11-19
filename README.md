@@ -2,6 +2,8 @@
 ````markdown
 # Session Checker
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 Private utility script for testing Telegram `.session` files and automatically sorting them into **working** and **non-working** groups.
 
 > ⚠️ This is a private tool. Do **NOT** share publicly or upload `.session` files / API credentials to public repositories.
